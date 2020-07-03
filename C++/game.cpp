@@ -6,5 +6,5 @@ int main()
     cout<<"two";
 //changes are deleted
 
-i am learning git
+
 }
