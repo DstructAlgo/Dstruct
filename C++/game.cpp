@@ -4,6 +4,8 @@ int main()
 {
     cout<<"hello";
     cout<<"two";
-    hai how are you
-    //hai
+//changes are deleted
+
+
+
 }
